@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Hardik-Dulani
-- 👀 I’m interested in Python Programming Language and Cloud Computing
-- 🌱 I’m currently learning Cloud Computing and Automation
+- 👀 Have my eyes set on upcoming projects in machine learning
+- ✔  I am proficient with Pandas and ScikitLearn
+- 🌱 Studying Cloud computing from VIT'B
 - 📫 ig : @hardik.dulani
 -     LinkedIn: https://www.linkedin.com/in/hardik-dulani-6a2165197/
 
