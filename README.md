@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hardik-Dulani
-- 👀 Have my eyes set on upcoming projects in machine learning
-- ✔  I am proficient with Pandas and ScikitLearn
+- 👀 Have my eyes set on upcoming projects in Data Analysis and Web development
+- ✔  I am proficient with Python and Power Bi 
 - 🌱 Studying Cloud computing from VIT'B
 - 📫 ig : @hardik.dulani
 -     LinkedIn: https://www.linkedin.com/in/hardik-dulani-6a2165197/
