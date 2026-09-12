@@ -1,161 +1,265 @@
-# 👋 Hi, I'm Hardik Dulani
+<div align="center">
 
-### Python Developer | AI/ML Engineer | GenAI Enthusiast
+# Hardik Dulani
 
-I’m a Software Developer focused on **Python, AI/ML, Generative AI, and backend development**. I enjoy building practical applications that combine intelligent systems with scalable software.
+### Python Developer · AI/ML Engineer · GenAI
 
-Currently working with **Python, FastAPI, React, AWS, Machine Learning and Generative AI**, while continuously exploring better ways to build and deploy AI-powered applications.
+Building intelligent applications and scalable backend systems with **Python, AI/ML, Generative AI and modern web technologies.**
+
+<p>
+  <a href="https://github.com/Hardik-Dulani">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hardik-dulani/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hardikdulani66@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 🚀 What I Work With
+## About
 
-* 🐍 **Python** — Backend development, automation & AI/ML
-* 🤖 **AI / ML** — Scikit-learn, PyTorch, model development & evaluation
-* 🧠 **Generative AI** — LLMs, prompt engineering, AWS Bedrock, Ollama & vLLM
-* ⚡ **Backend** — FastAPI, Django, REST APIs
-* ⚛️ **Frontend** — React, JavaScript
-* ☁️ **Cloud** — AWS & Google Cloud
-* 📊 **Data** — Pandas, NumPy, Matplotlib, Tableau
-* 🔧 **Tools** — Git, Jupyter Notebook
+I'm a Software Developer with a strong interest in **Artificial Intelligence, Machine Learning and backend engineering**.
+
+My work spans from developing **ML models and LLM-powered applications** to building **APIs, automation systems and full-stack applications**.
+
+Currently working with:
+
+* Python & backend development
+* Machine Learning & Deep Learning
+* Generative AI & LLM applications
+* FastAPI & Django
+* React
+* AWS & Google Cloud
+
+I'm particularly interested in building AI systems that solve **actual engineering and business problems**, rather than AI experiments that stop at a notebook.
 
 ---
 
-## 🛠️ Tech Stack
+## What I Build
+
+```text
+AI / ML
+├── Machine Learning
+├── Deep Learning
+├── Computer Vision
+└── Generative AI
+
+Backend
+├── Python
+├── FastAPI
+├── Django
+├── REST APIs
+└── Automation
+
+AI Infrastructure
+├── AWS Bedrock
+├── Ollama
+├── vLLM
+├── Open-source LLMs
+└── Prompt Engineering
+
+Frontend
+├── React
+└── JavaScript
+```
+
+---
+
+## Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,sql,r" />
+</p>
 
 ### AI / Machine Learning
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
+</p>
 
-### Backend & Development
+`Pandas` · `NumPy` · `Matplotlib` · `Computer Vision` · `Deep Learning` · `NLP`
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+### Backend & Web
 
-### Cloud & GenAI
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,django,react,tailwind" />
+</p>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
+`REST APIs` · `API Development` · `Full-Stack Development`
+
+### Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,git,github,jupyter" />
+</p>
+
+`AWS Bedrock` · `Ollama` · `vLLM`
 
 ---
 
-## 💡 Featured Projects
+# Featured Projects
 
-### 🩺 PneuX-Net — Pneumonia Detection System
+## 🩺 PneuX-Net
+
+### Pneumonia Detection System
 
 Deep learning system for detecting pneumonia from chest X-ray images using **ResNet-18 transfer learning**.
 
+**Highlights**
+
 * 5,856 chest X-ray images
 * Image preprocessing & augmentation
-* Weighted loss and batch normalization
+* Transfer learning with ResNet-18
+* Weighted loss
+* Batch normalization
 * Dropout & early stopping
 * **95.16% validation accuracy**
-* Evaluated using Precision, Recall, F1, ROC-AUC and Confusion Matrix
+* Precision, Recall, F1, ROC-AUC & Confusion Matrix evaluation
 
 ---
 
-### ❤️ Coronary Heart Disease Predictor
+## ❤️ Coronary Heart Disease Predictor
 
-Machine learning system for predicting coronary heart disease using ensemble models and feature engineering.
+Machine learning system for predicting coronary heart disease using ensemble learning and feature engineering.
 
-* CatBoost-based classification
+**Highlights**
+
+* CatBoost classification
 * **91.8% accuracy**
 * **100% recall**
 * **94.6% F1 score**
-* Data preprocessing and feature engineering
+* Data preprocessing & feature engineering
+* Model evaluation and comparison
 
 ---
 
-### 🤖 FilosAI
+## 🤖 FilosAI
 
-A multi-purpose AI application combining **prompt engineering, generative AI and real-time information retrieval**.
+A multi-purpose AI system combining generative AI, prompt engineering, image generation and real-time information retrieval.
+
+**Highlights**
 
 * Gemini-based AI workflows
 * Prompt engineering
-* AI-generated images using Pollinations
+* Pollinations.ai image generation
 * Real-time web scraping
-* Focus on improving model robustness
+* AI robustness experimentation
 
 ---
 
-### 🧠 GenAI & LLM Applications
+## 🧠 LLM Applications
 
-Hands-on experience building applications around modern LLM infrastructure, including:
+Hands-on development with modern LLM infrastructure and AI application architectures.
 
-* **AWS Bedrock**
-* **Ollama**
-* **vLLM**
-* Open-source LLMs
-* OCR-integrated conversational applications
-* Prompt engineering
-* AI-powered automation
+**Worked with**
+
+`AWS Bedrock` · `Ollama` · `vLLM` · `Open-source LLMs` · `OCR` · `Prompt Engineering`
+
+Built conversational applications combining **LLMs, OCR and backend systems** for practical use cases.
 
 ---
 
-## 💼 Professional Experience
+# 💼 Experience
 
-### Software Developer — TCS
+### Software Developer
 
-Working across **Python, Generative AI, backend and full-stack development**.
+**TCS · Python · GenAI · React**
+
+Working across AI application development, backend engineering, automation and full-stack development.
 
 * Developing GenAI applications using **AWS Bedrock**
-* Building scalable APIs using **FastAPI**
-* Working with **React** for full-stack applications
-* Building LLM applications using **vLLM and open-source models**
-* Contributing to chatbot applications using **Ollama and OCR**
-* Developing automation solutions and leading a team of 5 engineers
+* Building scalable backend APIs with **FastAPI**
+* Developing full-stack applications using **React**
+* Building LLM applications with **vLLM and open-source models**
+* Contributing to chatbot applications using **Ollama + OCR**
+* Developing automation solutions
+* Led a team of **5 engineers** on automation work
 
 ---
 
-## 📜 Certifications
+# 📊 GitHub Analytics
 
-* ☁️ AWS Certified Cloud Practitioner
-* ☁️ Google Cloud Digital Leader
-* 📊 Google Data Analytics Professional Certificate
-* 🤖 Applied Machine Learning in Python — University of Michigan
+<div align="center">
 
-🏆 **Top 5,500 globally** — AWS Machine Learning Scholarship Program
+<img src="./profile/stats.svg" width="49%" />
+<img src="./profile/top-langs.svg" width="49%" />
 
----
-
-## 📊 GitHub Stats
-
-> Stats cards can occasionally fail because public GitHub Readme Stats instances are subject to GitHub API rate limits and traffic spikes.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hardik-Dulani\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik-Dulani\&layout=compact\&theme=tokyonight\&hide_border=true)
+</div>
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Hardik-Dulani\&theme=tokyonight\&hide_border=true)
+<div align="center">
 
----
+<img src="./profile/streak.svg" width="70%" />
 
-## 🤝 Let's Connect
-
-I’m always open to connecting with people working in **Python, AI/ML, GenAI and software engineering**.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hardik-dulani/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Hardik-Dulani)
+</div>
 
 ---
 
-### 💭 Currently
+# 🏆 Certifications & Achievements
 
-**Building → Learning → Experimenting → Shipping**
+* **AWS Certified Cloud Practitioner**
+* **Google Cloud Digital Leader**
+* **Google Data Analytics Professional Certificate**
+* **Applied Machine Learning in Python — University of Michigan**
+* 🏆 **Top 5,500 globally — AWS Machine Learning Scholarship Program**
 
-> *Turning ideas into practical software, one project at a time.*
+---
+
+# 📚 Currently Learning
+
+```text
+Python
+   ↓
+Advanced OOP & Software Design
+   ↓
+Machine Learning
+   ↓
+Deep Learning
+   ↓
+Generative AI
+   ↓
+LLM Applications
+   ↓
+Production AI Systems
+```
+
+Currently focused on becoming stronger at the intersection of **AI/ML + software engineering**.
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in connecting with people working in:
+
+**Python · AI/ML · GenAI · Backend Engineering · Software Development**
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hardik-dulani/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Hardik-Dulani">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+*"Build things worth showing."*
+
+</div>
